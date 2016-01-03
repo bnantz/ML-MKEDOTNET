@@ -1,5 +1,4 @@
 # ML-MKEDOTNET 
 
-Code from the MKEDOTNET 2015 (http://www.centare.com/mke-dot-net/) presentation on Digital Health Machine Learning with C#.
-
+Code from the [2015 MKEDOTNET](http://www.centare.com/mke-dot-net/ "2015 MKEDOTNET") presentation on [Digital Health Machine Learning with C#](http://nantz.org/Digital_Health_ML_CSharp.zip "Digital Health Machine Learning with C#") 
 
